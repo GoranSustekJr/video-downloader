@@ -1,7 +1,9 @@
-![image](https://github.com/GoranSustekJr/video-downloader/assets/139004385/18635232-489f-4432-b1ed-18fd0808015b)# **About This Manual**
+# **About This Manual**
 Here I have created a manual for finding out the url and downloading the video to host using chrome dev tools.
 
-# **Step 1. - Getting the video**
+
+![image](https://github.com/GoranSustekJr/video-downloader/assets/139004385/18635232-489f-4432-b1ed-18fd0808015b)# 
+# **Step 1. - Getting the video link**
 Firstly get to the site that you watch the video on
 Click ```ctrl + shift + c``` and this will open
 ![image](https://github.com/GoranSustekJr/video-downloader/assets/139004385/3e5a29a6-3ae1-47bf-8732-b23bb583b4e3)
@@ -14,6 +16,7 @@ After getting there reload the page and start the video. After it has been runni
 Here can be seen that ```19-011021.mp4``` is reoccuring many times. That means that it is sending chunks of data continuously. That means that it is the video playing and getting to host system. Find the first one occuring.
 ![image](https://github.com/GoranSustekJr/video-downloader/assets/139004385/7718751e-da32-44ea-99fa-4973a736877f)
 
+# **Step 2. - Downloading the video**
 After that copy the url and open terminal and run the following command:
 ```youtube-dl --no-mtime <copied url>```
 For example ```youtube-dl --no-mtime https://sirrah.carnet.hr/hls-baltazar/19-011021.mp4.m3u8?st=CE0ZLykhVzIaFJ88vewjtQ&e=1703109314```
