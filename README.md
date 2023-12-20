@@ -23,7 +23,7 @@ For example ```youtube-dl --no-mtime https://sirrah.carnet.hr/hls-baltazar/19-01
 ![image](https://github.com/GoranSustekJr/video-downloader/assets/139004385/0c4407c4-3735-43be-aa68-de9c58454bda)
 First line is the command
 
-It will start downloading and printing a lot of info. Depending on the size of the video, it will have more/less info printed. Here is how it looks at the end
+It will start downloading and echoing a lot of info. Depending on the size of the video, it will have more/less info printed. Here is how it looks at the end
 ![image](https://github.com/GoranSustekJr/video-downloader/assets/139004385/381a1654-ef18-41e8-a884-2c5ba9d8e14d)
 Now open the folder you donwloaded the video in and watch the video!
 ![image](https://github.com/GoranSustekJr/video-downloader/assets/139004385/6141d235-99ac-4b23-b44f-4a608036cdb0)
