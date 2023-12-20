@@ -22,8 +22,7 @@ After that copy the url and open terminal and run the following command:
 youtube-dl --no-mtime <copied url>
 ```
 
-For example ```youtube-dl --no-mtime https://sirrah.carnet.hr/hls-baltazar/19-011021.mp4.m3u8?st=CE0ZLykhVzIaFJ88vewjtQ&e=1703109314```
-If windows system youtube-dl has to be downloaded, for that search on google. Then open CMD and type that same command
+For example ```youtube-dl --no-mtime https://sirrah.carnet.hr/hls-baltazar/19-011021.mp4.m3u8?st=CE0ZLykhVzIaFJ88vewjtQ&e=1703109314```. If windows system youtube-dl has to be downloaded, for that search on google. Then open CMD and type that same command
 ![image](https://github.com/GoranSustekJr/video-downloader/assets/139004385/0c4407c4-3735-43be-aa68-de9c58454bda)
 First line is the command
 
